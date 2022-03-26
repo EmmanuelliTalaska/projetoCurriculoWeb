@@ -1,0 +1,42 @@
+
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{ /*estilizado o fundo*/
+    background-color:rgb(134, 165, 170);
+    color: aliceblue; /*cor da fonte*/
+}
+nav{ /*menu de navegação*/
+    background-color: rgb(170, 162, 162);
+    margin: 10px 10px;
+}
+nav p{
+    text-align: center;
+    color:black;
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav p span{
+    padding: 0px 20px 0px 20px;
+}
+
+
+header{
+    margin: 0px 50px;
+}
+header h1{
+font-size: 50pt;
+text-align: center;
+}
+main{
+
+}
+main h2{
+    font-family: 'Abril Fatface', cursive;
+}
+    
